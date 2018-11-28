@@ -1,0 +1,22 @@
+{
+  "name": "cgs-v3",
+  "version": "1.0.0",
+  "description": "a Discord bot made by Kondd¨",
+  "main": "¨",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kondd",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "mysql": "^2.16.0",
+    "node-gyp": "^3.8.0",
+    "quick.hook": "^1.5.1",
+    "rebuild": "^0.1.2",
+    "superagent": "^4.0.0",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0",
+    "ytdl-core": "^0.28.0"
+  }
+}

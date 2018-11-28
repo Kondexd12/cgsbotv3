@@ -1,0 +1,51 @@
+{
+    "Help": {
+        "name":"Help",
+        "group": "User",
+        "desc": "Displays a list of commands.",
+        "usage":"g?help [group or command]"
+    },
+    "Purge": {
+        "name":"Purge",
+        "group": "Moderator",
+        "desc":"Clears a specified number of messages",
+        "usage":"g?Purge <amount>"
+    },
+    "Meme": {
+        "name":"Meme",
+        "group": "User",
+        "desc": "Generates a random meme.",
+        "usage": "g?meme"
+    },
+    "Dog": {
+        "name":"Dog",
+        "group": "User",
+        "desc": "Generates a random picture of a dog",
+        "usage": "g?dog"
+    },
+    "Cat": {
+        "name":"Cat",
+        "group": "User",
+        "desc": "Generates a random picture of a cat",
+        "usage": "g?cat"
+    },
+    "UserInfo": {
+             "name":"UserInfo",
+             "group": "User",
+             "desc": "Shows message author's info",
+             "usage": "g?userinfo"
+    },
+    "ServerInfo": {
+               "name":"ServerInfo",
+               "group": "User",
+               "desc": "Shows the server's info",
+               "usage": "g?serverinfo"
+    },
+    "Weather": {
+            "name":"Weather",
+            "group": "User",
+            "desc": "Shows the specified location's weather at the moment",
+            "usage": "g?weather <location>"
+    }
+
+}
